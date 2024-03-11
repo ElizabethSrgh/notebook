@@ -1,0 +1,4 @@
+# TUGAS
+text = 'ilmukomputer'
+for index, char in enumerate(text):
+    print('Jaya ke -', index)
